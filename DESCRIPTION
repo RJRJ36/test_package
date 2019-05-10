@@ -2,9 +2,9 @@ Package: MyPackage
 Title: A package for minus function
 Version: 0.0.0.9000
 Authors@R: person(given = "Ryan",
-           family = "Jiang",
+           family = "J",
            role = c("aut", "cre"),
-           email = "ryan.jiang@none.com")
+           email = "ryanj@none.com")
 Description: To perform x-y.
 Depends: R (>= 3.4.1)
 License: MIT
